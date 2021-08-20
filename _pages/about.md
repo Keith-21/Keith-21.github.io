@@ -1,7 +1,7 @@
 ---
 title:  "About"
 layout: archive
-permalink: /About/
+permalink: /about/
 author_profile: true
 ---
 Hi this is about me
