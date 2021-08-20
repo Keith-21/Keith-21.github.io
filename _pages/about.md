@@ -1,4 +1,6 @@
 ---
-layout: home
+title:  "About"
+layout: archive
+permalink: /About/
 author_profile: true
 ---
