@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Keith"
-  avatar           : /assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am interested in new Tech, IT, and programming. I am mostly into Web Development but also interested in Cybersecurity too. Also I love Marvel Movies and my favorite character is Ironman."
   location         : "Mars"
   email            :
