@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: 5 Free Amazing Sites That Will Get You Started Coding
 ---
 
