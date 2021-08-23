@@ -1,6 +1,6 @@
 # 5 Free Amazing Sites That Will Get You Started Coding
 
-<img src="C:\Users\Kipung\Downloads\scott-graham-5fNmWej4tAA-unsplash (1).jpg" alt="scott-graham-5fNmWej4tAA-unsplash (1)" style="zoom: 25%;" />
+<img src="{{ https://www.keithtech.org/ }}/assets/images/scott-graham-5fNmWej4tAA-unsplash (1).jpg" alt="scott-graham-5fNmWej4tAA-unsplash (1)" style="zoom: 25%;" />
 
 ​																					Photo by [Scott Graham](https://unsplash.com/@homajob) on [Unsplash](https://unsplash.com/)
 
@@ -14,7 +14,7 @@ The order is randomly chosen.
 
 ### **1.** [W3Schools](https://www.w3schools.com/)
 
-![image-20210821181844882](C:\Users\Kipung\AppData\Roaming\Typora\typora-user-images\image-20210821181844882.png)
+![image-20210821181844882]({{ https://www.keithtech.org/ }}/assets/images/image-20210821181844882.png)
 
 ​																						Photo taken from [W3Schools](https://www.w3schools.com/)
 
@@ -40,7 +40,7 @@ The order is randomly chosen.
 
 ### **2.** [Codecademy](https://www.codecademy.com/)
 
-![image-20210821183328479](C:\Users\Kipung\AppData\Roaming\Typora\typora-user-images\image-20210821183328479.png)
+![image-20210821183328479]({{ https://www.keithtech.org/ }}/assets/images/image-20210821183328479.png)
 
 ​																							Photo taken from [Codecademy](https://www.codecademy.com/catalog)
 
@@ -62,7 +62,7 @@ The order is randomly chosen.
 
 ### 3. [freeCodeCamp](https://www.freecodecamp.org/)
 
-![image-20210822151952426](C:\Users\Kipung\AppData\Roaming\Typora\typora-user-images\image-20210822151952426.png)
+![image-20210822151952426]({{ https://www.keithtech.org/ }}/assets/images/image-20210822151952426.png)
 
 ​																						Taken from [freeCodeCamp](https://www.freecodecamp.org/)
 
@@ -86,7 +86,7 @@ The order is randomly chosen.
 
 ### 4. [Khan Academy CS courses](https://www.khanacademy.org/computing)
 
-![image-20210822155203649](C:\Users\Kipung\AppData\Roaming\Typora\typora-user-images\image-20210822155203649.png)
+![image-20210822155203649]({{ https://www.keithtech.org/ }}/assets/images/image-20210822155203649.png)
 
 ​																							Taken from [Khan Academy](https://www.khanacademy.org/computing)
 
@@ -110,7 +110,7 @@ The order is randomly chosen.
 
 ### 5. [edX](https://www.edx.org/)
 
-![image-20210822184044289](C:\Users\Kipung\AppData\Roaming\Typora\typora-user-images\image-20210822184044289.png)
+![image-20210822184044289]({{ https://www.keithtech.org/ }}/assets/images/image-20210822184044289.png)
 
 ​																								Photo taken from [edX](https://www.edx.org/)
 
