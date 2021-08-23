@@ -34,7 +34,6 @@ The order is randomly chosen.
 
 
 #### Pros: Free, many good examples and resources
-
 #### Cons: More of a reading guide, not a video course
 
 
@@ -57,7 +56,6 @@ The order is randomly chosen.
 
 
 #### Pros: Many beginner courses are free, great practice exercises
-
 #### Cons: Not a video course, some advanced courses are not free
 
 
@@ -77,7 +75,6 @@ The order is randomly chosen.
 
 
 #### Pros: FREE, awesome emails, many video courses
-
 #### Cons: Some might not like the UI of the website
 
 
@@ -99,7 +96,6 @@ The order is randomly chosen.
 
 
 #### Pros: FREE, engaging video-practice lessons
-
 #### Cons: Some might not like the video-practice lessons
 
 
@@ -122,7 +118,6 @@ The order is randomly chosen.
 
 
 #### Pros: With auditing it is free, Great course providers or instructors 
-
 #### Cons: To receive a certificate and full course experience, payment needed
 
 
