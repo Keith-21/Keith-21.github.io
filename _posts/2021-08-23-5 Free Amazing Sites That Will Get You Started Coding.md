@@ -1,4 +1,7 @@
-# 5 Free Amazing Sites That Will Get You Started Coding
+---
+
+title: 5 Free Amazing Sites That Will Get You Started Coding
+---
 
 <img src="C:\Users\Kipung\Downloads\scott-graham-5fNmWej4tAA-unsplash (1).jpg" alt="scott-graham-5fNmWej4tAA-unsplash (1)" style="zoom: 25%;" />
 
