@@ -42,7 +42,7 @@ The order is randomly chosen.
 
 ### **2.** [Codecademy](https://www.codecademy.com/)
 
-<img src="https://www.keithtech.org/assets/images/image-20210821183328479.png>
+<img src="https://www.keithtech.org/assets/images/image-20210821183328479.png/>
 
 ​																							Photo taken from [Codecademy](https://www.codecademy.com/catalog)
 
@@ -64,7 +64,7 @@ The order is randomly chosen.
 
 ### 3. [freeCodeCamp](https://www.freecodecamp.org/)
 
-<img src="https://www.keithtech.org/assets/images/image-20210822151952426.png>
+<img src="https://www.keithtech.org/assets/images/image-20210822151952426.png/>
 
 ​																						Taken from [freeCodeCamp](https://www.freecodecamp.org/)
 
@@ -87,7 +87,7 @@ The order is randomly chosen.
 
 
 ### 4. [Khan Academy CS courses](https://www.khanacademy.org/computing)
-<img src="https://www.keithtech.org/assets/images/image-20210822155203649.png>
+<img src="https://www.keithtech.org/assets/images/image-20210822155203649.png/>
 
 ​																							Taken from [Khan Academy](https://www.khanacademy.org/computing)
 
@@ -111,7 +111,7 @@ The order is randomly chosen.
 
 ### 5. [edX](https://www.edx.org/)
 
-<img src="https://www.keithtech.org/assets/images/image-20210822184044289.png>
+<img src="https://www.keithtech.org/assets/images/image-20210822184044289.png/>
 
 ​																								Photo taken from [edX](https://www.edx.org/)
 
