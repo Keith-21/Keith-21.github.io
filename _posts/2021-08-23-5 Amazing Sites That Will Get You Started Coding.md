@@ -1,6 +1,6 @@
 # 5 Free Amazing Sites That Will Get You Started Coding
 
-<img src="{{ https://www.keithtech.org/ }}/assets/images/scott-graham-5fNmWej4tAA-unsplash (1).jpg" alt="scott-graham-5fNmWej4tAA-unsplash (1)" style="zoom: 25%;" />
+<img src="{{ https://www.keithtech.org/ }}/assets/images/scott-graham-5fNmWej4tAA-unsplash (1).jpg" alt="scott-graham-5fNmWej4tAA-unsplash (1)" style="zoom: 25%; .align-center" />
 
 ​																					Photo by [Scott Graham](https://unsplash.com/@homajob) on [Unsplash](https://unsplash.com/)
 
