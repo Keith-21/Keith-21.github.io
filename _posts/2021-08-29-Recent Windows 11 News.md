@@ -1,5 +1,6 @@
-# Recent Windows 11 News
-
+---
+title: Recent Windows 11 News
+---
 <img src="C:\Users\Kipung\Downloads\johny-vino-R54V69BN0MI-unsplash.jpg" alt="johny-vino-R54V69BN0MI-unsplash" style="zoom:50%;" />
 
 ​																				Photo by Johny Vino on [Unsplash](https://unsplash.com/@johnyvino)
