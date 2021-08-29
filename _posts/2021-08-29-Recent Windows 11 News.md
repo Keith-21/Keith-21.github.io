@@ -1,7 +1,7 @@
 ---
 title: Recent Windows 11 News
 ---
-<img src="C:\Users\Kipung\Downloads\johny-vino-R54V69BN0MI-unsplash.jpg" alt="johny-vino-R54V69BN0MI-unsplash" style="zoom:50%;" />
+<img src="https://www.keithtech.org/assets/images/johny-vino-R54V69BN0MI-unsplash.jpg" alt="Windows Screen" style="zoom: 50%;" />
 
 ​																				Photo by Johny Vino on [Unsplash](https://unsplash.com/@johnyvino)
 
@@ -30,7 +30,7 @@ title: Recent Windows 11 News
 
 
 
-![Screenshot 2021-08-29 182632](C:\Users\Kipung\Downloads\Screenshot 2021-08-29 182632.png)
+<img src="https://www.keithtech.org/assets/images/Screenshot 2021-08-29 182632.png">
 
 <font size="4">Despite all these requirements and some anxieties, there is at least one great news. The Internet Explorer is disabled! (However, Microsoft is kind of pushing hard about the Microsoft Edge as their browser.)</font>
 
